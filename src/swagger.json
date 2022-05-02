@@ -1,0 +1,11 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Rental Documentation",
+        "description": "API for car rent",
+        "version": "1.0.0",
+        "contact": {
+            "email": "developer.erickcintra@outlook.com"
+        }
+    }
+}
